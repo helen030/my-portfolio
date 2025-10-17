@@ -7,6 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://astronaut.github.io',
-  base: '/my-repo',
+  site: 'https://helen030.github.io',
+  base: '/my-portfolio',
 });
