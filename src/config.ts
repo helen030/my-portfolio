@@ -16,14 +16,14 @@ export const siteConfig = {
       name: "Gender-Based Violence Dashboard",
       description:
         "Violence doesn’t strike at random—it follows patterns hidden in data. With Power BI, I visualised Kenya’s GBV data to uncover who’s most at risk, when danger peaks, and how we can use those insights to protect the vulnerable.",
-      link: "https://github.com/helen030/DataProject/blob/d255bbb9c5330033db6cc5d8762c44cfdf40e2f9/Kenya's%20GBV%20Dashboard.md",
+      link: "https://github.com/helen030/DataProject/blob/main/Kenya's%20GBV%20Dashboard.md",
       skills: ["Power BI", "Data cleaning", "Data modelling", "Data visualisation"],
     },
     {
       name: "UNSW Going Green Dashboard",
       description:
         "How well does one of Australia's top universities perform in terms of sustainability? Using Power BI and ETL techniques, I transformed UNSW's unstructured energy data into a live dashboard that enables its staff to monitor progress and track UNSW's performance against that of other universities. ",
-      link: "https://github.com/helen030/DataProject/blob/d255bbb9c5330033db6cc5d8762c44cfdf40e2f9/Going%20Green%20Dashboard.md",
+      link: "https://github.com/helen030/DataProject/blob/main/Going%20Green%20Dashboard.md",
       skills: ["Power BI", "Excel", "Data cleaning", "Data modelling", "Data visualisation"],
     },
     {
