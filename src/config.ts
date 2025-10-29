@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/helen030/DataProject",
   },
   aboutMe:
-    "TBU",
+    "I'm a fresh graduate with a double degree in Commerce and Information Systems from UNSW, majoring in business analytics and digital transformation. During my study, I honed my analytical thinking and developed a keen eye for identifying patterns and trends. Beyond studying, I have completed two internships at Aurecon and TL Consulting, where I gained valuable experience in consulting, asset management, and operational transformation. Through these internships, I have developed a strong foundation on how to solve real-world business problems and draw useful insights that help businesses improve their performance. I am excited and confident to work with complex datasets and effectively communicate my findings to both technical and non-technical audiences.",
   skills: ["R", "Power BI", "AWS", "SQL", "Python", "Tableau", "Salesforce"],
   projects: [
     {
@@ -30,8 +30,8 @@ export const siteConfig = {
       name: "Customer Churn Rate Analysis and Prediction Model",
       description:
         "Why do customers leave, and can businesses see it coming? Using data from 30K+ telecom users, I built predictive models to uncover key churn drivers and help the company retain high-value customers before they walk away.",
-      link: "TBU",
-      skills: ["R", "Data manipulation", "Statistical modelling"],
+      link: "https://github.com/helen030/DataProject/blob/ee32ca0df46d998d451ed2f741592ec145f0dfa0/Churn%20Rate%20Analysis.md",
+      skills: ["R", "Data manipulation", "Data prediction", "Statistical modelling"],
     },
     {
       name: "UNSW Going Green Dashboard",
