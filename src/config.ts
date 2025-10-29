@@ -20,17 +20,10 @@ export const siteConfig = {
       skills: ["Power BI", "Data cleaning", "Data modelling", "Data visualisation"],
     },
     {
-      name: "UNSW Going Green Dashboard",
-      description:
-        "How well does one of Australia's top universities perform in terms of sustainability? Using Power BI and ETL techniques, I transformed UNSW's unstructured energy data into a live dashboard that enables its staff to monitor progress and track UNSW's performance against that of other universities. ",
-      link: "https://github.com/helen030/DataProject/blob/main/Going%20Green%20Dashboard.md",
-      skills: ["Power BI", "Excel", "Data cleaning", "Data modelling", "Data visualisation"],
-    },
-    {
       name: "Analysing Hong Kong Pain Relief Medication Market",
       description:
         "In a crowded pain relief market, strategy is everything. I analysed sales, pricing, and consumer data to uncover what truly drives success—and helped my client, Poon, position their Joint and Muscle Pain Gel for maximum impact.",
-      link: "TBU",
+      link: "https://github.com/helen030/DataProject/blob/769185599365e64574d95867f4ceac8349daf56d/Hong%20Kong%20Drug%20Market%20Analysis.ipynb",
       skills: ["Python"],
     },
     {
@@ -39,6 +32,13 @@ export const siteConfig = {
         "Why do customers leave, and can businesses see it coming? Using data from 30K+ telecom users, I built predictive models to uncover key churn drivers and help the company retain high-value customers before they walk away.",
       link: "TBU",
       skills: ["R", "Data manipulation", "Statistical modelling"],
+    },
+    {
+      name: "UNSW Going Green Dashboard",
+      description:
+        "How well does one of Australia's top universities perform in terms of sustainability? Using Power BI and ETL techniques, I transformed UNSW's unstructured energy data into a live dashboard that enables its staff to monitor progress and track UNSW's performance against that of other universities. ",
+      link: "https://github.com/helen030/DataProject/blob/main/Going%20Green%20Dashboard.md",
+      skills: ["Power BI", "Excel", "Data cleaning", "Data modelling", "Data visualisation"],
     },
   ],
   experience: [
