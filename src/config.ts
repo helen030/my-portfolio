@@ -8,8 +8,10 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/minh-thu-helen-do-502717232/",
     github: "https://github.com/helen030/DataProject",
   },
-  aboutMe:
-    "I'm a fresh graduate with a double degree in Commerce and Information Systems from UNSW. During my study, I honed my analytical thinking skills and developed a keen eye for identifying patterns and trends. I have also completed two internships at Aurecon and TL Consulting, where I gained valuable experience in consulting, asset management, and operational transformation. Through these internships, I have developed a strong foundation in how to solve real-world business problems and draw useful insights that help businesses improve their performance.",
+  aboutMe: [
+    "I'm a fresh graduate with a double degree in Commerce and Information Systems from UNSW. During my study, I honed my analytical thinking skills and developed a keen eye for identifying patterns and trends.",
+    "I have also completed two internships at Aurecon and TL Consulting, where I gained valuable experience in consulting, asset management, and operational transformation. Through these internships, I have developed a strong foundation in how to solve real-world business problems and draw useful insights that help businesses improve their performance.",   
+    ],
   skills: ["R", "Power BI", "AWS", "SQL", "Python", "Tableau", "Salesforce"],
   projects: [
     {
