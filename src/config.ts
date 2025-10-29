@@ -22,9 +22,9 @@ export const siteConfig = {
     {
       name: "Analysing Hong Kong Pain Relief Medication Market",
       description:
-        "In a crowded pain relief market, strategy is everything. I analysed sales, pricing, and consumer data to uncover what truly drives success—and helped my client, Poon, position their Joint and Muscle Pain Gel for maximum impact.",
+        "In a crowded pain relief market, strategy is everything. I analysed sales, pricing, and consumer data to uncover what truly drives success, and how pharmaceutical companies can maximise sales performance.",
       link: "https://github.com/helen030/DataProject/blob/769185599365e64574d95867f4ceac8349daf56d/Hong%20Kong%20Drug%20Market%20Analysis.ipynb",
-      skills: ["Python"],
+      skills: ["Python", "Web crawling", "Monte Carlo simulation", "Data visualisation"],
     },
     {
       name: "Customer Churn Rate Analysis and Prediction Model",
@@ -57,7 +57,7 @@ export const siteConfig = {
       title: "Asset Management & Performance Consulting Intern",
       dateRange: "Feb 2024 – Jun 2024",
       bullets: [
-        "Developed solutions to reduce carbon emissions in transport sector by 34% in 2030.",
+        "Developed solutions to reduce carbon emissions in the transport sector by 34% in 2030.",
         "Led initiative in building key metrics and target reduction models utilising advanced Excel.",
         "Awarded Most Innovative Solution & proposal selected by Head of Department.",
       ],
@@ -69,9 +69,8 @@ export const siteConfig = {
       degree: "Bachelor of Commerce (Business Analytics) & Bachelor of Information Systems ",
       dateRange: "Sep 2021 – May 2025",
       achievements: [
-        "Graduated with Distinction",
+        "Graduated with Distinction in both degrees",
         "Selected as top performers in multiple courses",
-        "Built 10+ portfolio projects",
       ],
     },
   ],
